@@ -1,0 +1,6 @@
+@ShortRouteOptimizer_HostAddress = http://localhost:5011
+
+GET {{ShortRouteOptimizer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

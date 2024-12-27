@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dXqTHuTRRzc=",
+  "success": true,
+  "projectFilePath": "D:\\My practice\\Amplifyn\\ShortRouteOptimizer\\ShortRouteOptimizer\\ShortRouteOptimizer\\ShortRouteOptimizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ChamathVidurangaBIST\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\ChamathVidurangaBIST\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
